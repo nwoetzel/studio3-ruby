@@ -7,7 +7,7 @@ import org.eclipse.core.runtime.IProgressMonitor;
 import org.eclipse.core.runtime.IStatus;
 import org.eclipse.core.runtime.NullProgressMonitor;
 import org.eclipse.core.runtime.Status;
-import org.eclipse.core.runtime.SubProgressMonitor;
+import org.eclipse.core.runtime.SubMonitor;
 import org.eclipse.debug.core.ILaunch;
 import org.eclipse.debug.core.ILaunchConfiguration;
 import org.eclipse.debug.core.model.IDebugTarget;
@@ -75,7 +75,7 @@ public class RemoteRubyDebuggerLaunchDelegate extends LaunchConfigurationDelegat
 			monitor = new NullProgressMonitor();
 		}
 
-		IProgressMonitor subMonitor = new SubProgressMonitor(monitor, 1);
+		IProgressMonitor subMonitor = SubMonitor.convert(monitor, 1);
 		subMonitor.beginTask(Messages.SocketAttachConnector_Connecting____1, 2);
 		subMonitor.subTask(Messages.SocketAttachConnector_Configuring_connection____1);
 
