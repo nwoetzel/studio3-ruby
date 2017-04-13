@@ -13,7 +13,6 @@ import org.eclipse.core.runtime.preferences.IEclipsePreferences;
 import org.eclipse.core.runtime.preferences.InstanceScope;
 import org.eclipse.ui.texteditor.AbstractDecoratedTextEditorPreferenceConstants;
 
-import com.aptana.core.util.EclipseUtil;
 import com.aptana.editor.common.preferences.IPreferenceConstants;
 import com.aptana.editor.ruby.RubyEditorPlugin;
 

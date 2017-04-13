@@ -15,7 +15,6 @@ import org.eclipse.core.runtime.preferences.IEclipsePreferences;
 import org.osgi.service.prefs.BackingStoreException;
 
 import com.aptana.core.logging.IdeLog;
-import com.aptana.core.util.EclipseUtil;
 import com.aptana.editor.common.util.EditorUtil;
 import com.aptana.editor.ruby.RubyEditorPlugin;
 import com.aptana.editor.ruby.formatter.RubyFormatterConstants;

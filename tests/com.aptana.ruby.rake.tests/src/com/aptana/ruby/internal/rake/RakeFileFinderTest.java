@@ -7,8 +7,6 @@ import static org.junit.Assert.*;
 import java.net.URI;
 import java.util.Map;
 
-import junit.framework.TestCase;
-
 import org.eclipse.core.resources.IContainer;
 import org.eclipse.core.resources.IMarker;
 import org.eclipse.core.resources.IPathVariableManager;

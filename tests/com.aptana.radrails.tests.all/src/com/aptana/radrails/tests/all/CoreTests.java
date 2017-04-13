@@ -10,9 +10,6 @@ package com.aptana.radrails.tests.all;
 import org.junit.runners.Suite.SuiteClasses;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
-import junit.framework.Test;
-import junit.framework.TestResult;
-import junit.framework.TestSuite;
 
 @RunWith(Suite.class)
 @SuiteClasses({com.aptana.ruby.core.tests.AllTests.class, com.aptana.ruby.rake.tests.AllTests.class, })

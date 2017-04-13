@@ -10,8 +10,6 @@ package com.aptana.editor.erb.html;
 import org.junit.After;
 import org.junit.Before;
 import static org.junit.Assert.*;
-import junit.framework.TestCase;
-
 import org.eclipse.jface.text.rules.IToken;
 import org.eclipse.jface.text.rules.ITokenScanner;
 import org.eclipse.jface.text.rules.Token;

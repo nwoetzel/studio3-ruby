@@ -10,8 +10,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import junit.framework.TestCase;
-
 import org.jrubyparser.CompatVersion;
 import org.jrubyparser.ast.Node;
 import org.jrubyparser.parser.ParserResult;

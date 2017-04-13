@@ -22,7 +22,6 @@ import org.eclipse.jface.text.source.ISharedTextColors;
 import org.eclipse.jface.text.source.SourceViewerConfiguration;
 import org.eclipse.ui.texteditor.ITextEditor;
 
-import com.aptana.core.util.EclipseUtil;
 import com.aptana.editor.common.AbstractThemeableEditor;
 import com.aptana.editor.common.util.EditorUtil;
 import com.aptana.editor.ruby.RubyEditorPlugin;

@@ -3,9 +3,6 @@ package org.radrails.rails.ui.tests;
 import org.junit.runners.Suite.SuiteClasses;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
-import junit.framework.Test;
-import junit.framework.TestSuite;
-
 import org.radrails.rails.internal.ui.hyperlink.RenderPathHyperlinkDetectorTest;
 
 @RunWith(Suite.class)

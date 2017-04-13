@@ -16,8 +16,6 @@ import java.io.InputStream;
 import java.io.Reader;
 import java.io.StringReader;
 
-import junit.framework.TestCase;
-
 import org.eclipse.core.runtime.content.ITextContentDescriber;
 
 public abstract class ERBContentDescriberTestCase

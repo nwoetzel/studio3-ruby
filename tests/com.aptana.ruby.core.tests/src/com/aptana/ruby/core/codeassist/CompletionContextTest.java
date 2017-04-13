@@ -2,8 +2,6 @@ package com.aptana.ruby.core.codeassist;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-import junit.framework.TestCase;
-
 import org.jrubyparser.ast.ConstNode;
 import org.jrubyparser.ast.Node;
 

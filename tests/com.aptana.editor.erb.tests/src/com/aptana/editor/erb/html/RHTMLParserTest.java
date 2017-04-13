@@ -13,8 +13,6 @@ import org.junit.Before;
 import static org.junit.Assert.*;
 import java.io.InputStream;
 
-import junit.framework.TestCase;
-
 import org.eclipse.core.runtime.FileLocator;
 import org.eclipse.core.runtime.Path;
 import org.eclipse.core.runtime.Platform;

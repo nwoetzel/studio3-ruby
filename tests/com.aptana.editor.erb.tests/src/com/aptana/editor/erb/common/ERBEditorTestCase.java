@@ -10,8 +10,6 @@ package com.aptana.editor.erb.common;
 import org.junit.After;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import junit.framework.TestCase;
-
 import org.eclipse.core.filesystem.IFileStore;
 import org.eclipse.ui.IWorkbenchPage;
 import org.eclipse.ui.PlatformUI;

@@ -5,8 +5,6 @@ import static org.junit.Assert.*;
 import java.util.Collection;
 import java.util.Map;
 
-import junit.framework.TestCase;
-
 import org.eclipse.jface.text.Document;
 import org.eclipse.jface.text.IDocument;
 import org.eclipse.jface.text.Position;

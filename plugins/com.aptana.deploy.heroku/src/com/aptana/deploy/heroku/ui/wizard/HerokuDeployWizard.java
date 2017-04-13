@@ -38,7 +38,6 @@ import org.eclipse.ui.internal.browser.WebBrowserEditorInput;
 import org.osgi.service.prefs.BackingStoreException;
 
 import com.aptana.core.logging.IdeLog;
-import com.aptana.core.util.EclipseUtil;
 import com.aptana.core.util.IOUtil;
 import com.aptana.deploy.heroku.HerokuAPI;
 import com.aptana.deploy.heroku.HerokuDeployProvider;

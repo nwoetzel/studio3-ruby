@@ -17,7 +17,6 @@ import org.eclipse.core.runtime.IProgressMonitor;
 import org.jrubyparser.CompatVersion;
 
 import com.aptana.core.build.IProblem;
-import com.aptana.core.build.IProblem.Severity;
 import com.aptana.core.build.Problem;
 import com.aptana.core.build.RequiredBuildParticipant;
 import com.aptana.index.core.build.BuildContext;

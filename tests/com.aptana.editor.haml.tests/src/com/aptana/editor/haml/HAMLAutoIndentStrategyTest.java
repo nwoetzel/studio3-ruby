@@ -9,8 +9,6 @@ package com.aptana.editor.haml;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-import junit.framework.TestCase;
-
 import org.eclipse.jface.text.BadLocationException;
 import org.eclipse.jface.text.Document;
 import org.eclipse.jface.text.DocumentCommand;

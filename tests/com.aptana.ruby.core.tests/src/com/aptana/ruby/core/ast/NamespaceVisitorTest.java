@@ -9,8 +9,6 @@ package com.aptana.ruby.core.ast;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-import junit.framework.TestCase;
-
 import org.jrubyparser.CompatVersion;
 import org.jrubyparser.parser.ParserResult;
 
